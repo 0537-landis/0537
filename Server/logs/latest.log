@@ -44,3 +44,25 @@
 [17:34:36] [Server thread/INFO]: Sashimi left the game
 [17:35:16] [Server thread/INFO]: Made Zackarov a server operator
 [17:35:34] [Server thread/INFO]: Made Zackarov no longer a server operator
+[17:56:58] [Server thread/WARN]: Zackarov was kicked for floating too long!
+[17:56:58] [Server thread/INFO]: Zackarov lost connection: Flying is not enabled on this server
+[17:56:58] [Server thread/INFO]: Zackarov left the game
+[17:57:04] [User Authenticator #4/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:57:04] [Server thread/INFO]: Zackarov[/10.135.80.106:64714] logged in with entity id 4239 at (861.299999974668, 63.5000002, 972.299999974668)
+[17:57:04] [Server thread/INFO]: Zackarov joined the game
+[18:02:17] [Server thread/INFO]: Zackarov has made the advancement [The Parrots and the Bats]
+[18:06:32] [Server thread/INFO]: Zackarov lost connection: Disconnected
+[18:06:32] [Server thread/INFO]: Zackarov left the game
+[18:06:55] [Server thread/INFO]: Stopping the server
+[18:06:55] [Server thread/INFO]: Stopping server
+[18:06:55] [Server thread/INFO]: Saving players
+[18:06:55] [Server thread/INFO]: Saving worlds
+[18:06:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:06:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:06:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:06:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
