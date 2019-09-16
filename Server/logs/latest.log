@@ -1,139 +1,21 @@
-[13:38:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:38:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:38:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:38:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:38:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:38:26] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:38:26] [Server thread/INFO]: Loading properties
-[13:38:26] [Server thread/INFO]: Default game type: SURVIVAL
-[13:38:26] [Server thread/INFO]: Generating keypair
-[13:38:26] [Server thread/INFO]: Starting Minecraft server on 146.201.172.156:25565
-[13:38:26] [Server thread/INFO]: Using default channel type
-[13:38:26] [Server thread/INFO]: Preparing level "world"
-[13:38:26] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:38:36] [Server thread/INFO]: Loaded 6 recipes
-[13:38:36] [Server thread/INFO]: Loaded 811 advancements
-[13:38:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:38:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:38:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:38:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:38:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:38:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:38:40] [Server thread/INFO]: Time elapsed: 3519 ms
-[13:38:40] [Server thread/INFO]: Done (13.957s)! For help, type "help"
-[13:38:53] [User Authenticator #1/INFO]: UUID of player Sashimi is ea984a59-310a-4905-ac2d-48c2c00a18b4
-[13:38:53] [Server thread/INFO]: Sashimi[/146.201.172.156:53438] logged in with entity id 118 at (827.4622042306435, 64.0, 1012.3932017506347)
-[13:38:53] [Server thread/INFO]: Sashimi joined the game
-[13:40:04] [Server thread/INFO]: [Sashimi: Set the time to 1000]
-[13:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[13:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2855ms or 57 ticks behind
-[13:47:53] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[13:48:48] [Server thread/WARN]: Sashimi moved too quickly! 9.963707551870584,0.0,-2.592445618726515
-[13:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
-[13:53:34] [Server thread/INFO]: Sashimi has made the advancement [Eye Spy]
-[13:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
-[13:56:42] [Server thread/INFO]: <Sashimi> 2159 549
-[13:57:45] [Server thread/INFO]: [Sashimi: Set the weather to clear]
-[13:58:52] [Server thread/WARN]: Sashimi moved too quickly! -10.133706064785429,0.0,2.077401749356568
-[14:02:57] [Server thread/INFO]: [Sashimi: Set the weather to clear]
-[14:05:55] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[14:06:02] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[14:13:52] [Server thread/WARN]: Sashimi moved too quickly! 10.224447927822439,0.0,-4.838740403556585E-4
-[14:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[14:20:23] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[14:20:47] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[14:31:34] [Server thread/INFO]: Sashimi lost connection: Disconnected
-[14:31:34] [Server thread/INFO]: Sashimi left the game
-[14:40:10] [User Authenticator #2/INFO]: UUID of player Sashimi is ea984a59-310a-4905-ac2d-48c2c00a18b4
-[14:40:11] [Server thread/INFO]: Sashimi[/146.201.172.156:53547] logged in with entity id 15620 at (2300.5798956870467, 37.908509974065645, 555.9316311881697)
-[14:40:11] [Server thread/INFO]: Sashimi joined the game
-[14:40:24] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[14:41:00] [User Authenticator #3/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
-[14:41:00] [Server thread/INFO]: Zackarov[/10.135.224.52:50758] logged in with entity id 16016 at (858.7971605226629, 63.0, 970.2512928983784)
-[14:41:00] [Server thread/INFO]: Zackarov joined the game
-[14:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[14:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
-[15:03:02] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:03:02] [Server thread/WARN]: Zackarov moved too quickly! 1636.6014971256786,33.0,-235.8994532588514
-[15:03:02] [Server thread/INFO]: Zackarov has made the advancement [Eye Spy]
-[15:08:14] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:08:14] [Server thread/WARN]: Sashimi moved too quickly! -22.80977498405673,8.5,53.41633563112805
-[15:09:07] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:09:07] [Server thread/WARN]: Sashimi moved too quickly! -22.065220826586028,-11.0,35.38625045413335
-[15:09:07] [Server thread/WARN]: Sashimi moved too quickly! -22.065220826586028,-11.0,35.38625045413335
-[15:09:07] [Server thread/WARN]: Sashimi moved too quickly! -22.065220826586028,-11.0,35.38625045413335
-[15:19:38] [Server thread/INFO]: Sashimi was burnt to a crisp whilst fighting Silverfish
-[15:19:45] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:19:45] [Server thread/WARN]: Sashimi moved too quickly! 1513.2419404071475,-22.800000152316294,-483.2136673645066
-[15:19:45] [Server thread/WARN]: Sashimi moved too quickly! 1513.2419404071475,-22.800000152316294,-483.2136673645066
-[15:19:45] [Server thread/WARN]: Sashimi moved too quickly! 1513.2419404071475,-22.800000152316294,-483.2136673645066
-[15:19:59] [Server thread/INFO]: Zackarov was shot by Skeleton
-[15:20:03] [Server thread/INFO]: Sashimi lost connection: Disconnected
-[15:20:03] [Server thread/INFO]: Sashimi left the game
-[15:20:23] [User Authenticator #4/INFO]: UUID of player Sashimi is ea984a59-310a-4905-ac2d-48c2c00a18b4
-[15:20:23] [Server thread/INFO]: Sashimi[/146.201.172.156:53635] logged in with entity id 25739 at (2328.531401919367, 41.0, 521.3000000119209)
-[15:20:23] [Server thread/INFO]: Sashimi joined the game
-[15:20:25] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:20:25] [Server thread/WARN]: Zackarov moved too quickly! 1467.031401919367,-22.500000200000002,-451.19999998807907
-[15:20:54] [Server thread/INFO]: Zackarov was shot by Skeleton
-[15:20:59] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:22:30] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:22:30] [Server thread/WARN]: Zackarov moved too quickly! 11.193225557281039,11.0,-41.63786842205252
-[15:22:30] [Server thread/WARN]: Zackarov moved too quickly! 11.193225557281039,11.0,-41.63786842205252
-[15:23:13] [Server thread/INFO]: Zackarov was shot by Skeleton
-[15:23:15] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:23:15] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$b.a(SourceFile:18) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.c(SourceFile:127) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:691) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Thread.java:835) [?:?]
-[15:23:17] [Server thread/WARN]: Zackarov moved too quickly! -1453.0991369225217,-10.499999799999998,435.14393334991735
-[15:23:17] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:23:17] [Server thread/WARN]: Zackarov moved too quickly! 1453.0991369225217,10.499999799999998,-435.14393334991735
-[15:25:17] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:29:15] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:29:15] [Server thread/WARN]: Sashimi moved too quickly! 95.39999997615814,-41.0,6.246622170322894
-[15:35:15] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:40:42] [Server thread/INFO]: Sashimi has made the advancement [What a Deal!]
-[15:41:20] [Server thread/INFO]: Zackarov has made the advancement [What a Deal!]
-[15:43:15] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:44:36] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[15:44:36] [Server thread/WARN]: Sashimi moved too quickly! -107.81694203024426,2.6661092609382138,-9.984068786030548
-[15:44:36] [Server thread/WARN]: Sashimi moved too quickly! -107.81694203024426,2.6661092609382138,-9.984068786030548
-[15:49:01] [Server thread/WARN]: Zackarov moved too quickly! -10.061908964932172,0.42355929454303975,-1.807374071415552
-[15:49:01] [Server thread/WARN]: Sashimi moved too quickly! -10.287144601676573,0.8322033533667508,-0.010427471016782874
-[15:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2851ms or 57 ticks behind
-[15:51:05] [Server thread/INFO]: [Sashimi: Teleported Zackarov to Sashimi]
-[15:51:05] [Server thread/WARN]: Zackarov moved too quickly! 13.289416804744633,24.0,73.27495252247763
-[15:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
-[15:54:09] [Server thread/INFO]: Zackarov lost connection: Disconnected
-[15:54:09] [Server thread/INFO]: Zackarov left the game
-[15:55:53] [Server thread/INFO]: Sashimi lost connection: Disconnected
-[15:55:53] [Server thread/INFO]: Sashimi left the game
-[15:55:58] [Server thread/INFO]: Stopping the server
-[15:55:59] [Server thread/INFO]: Stopping server
-[15:55:59] [Server thread/INFO]: Saving players
-[15:55:59] [Server thread/INFO]: Saving worlds
-[15:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:56:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:56:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:56:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:56:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:56:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:00] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:57:00] [Server thread/INFO]: Loading properties
+[15:57:00] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:00] [Server thread/INFO]: Generating keypair
+[15:57:00] [Server thread/INFO]: Starting Minecraft server on 146.201.172.156:25565
+[15:57:00] [Server thread/INFO]: Using default channel type
+[15:57:00] [Server thread/INFO]: Preparing level "world"
+[15:57:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:57:05] [Server thread/INFO]: Loaded 6 recipes
+[15:57:05] [Server thread/INFO]: Loaded 811 advancements
+[15:57:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[15:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[15:57:06] [Server thread/INFO]: Preparing spawn area: 55%
+[15:57:06] [Server thread/INFO]: Time elapsed: 1386 ms
+[15:57:06] [Server thread/INFO]: Done (6.301s)! For help, type "help"
