@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-09-14 23:41:27 -0400"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-09-14 19:03:17 -0400"
@@ -326,6 +338,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-09-14 23:51:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-09-15 23:29:10 -0400"
     },
     "done": true
   },
@@ -353,6 +371,7 @@
       "chicken": "2019-09-14 18:31:53 -0400",
       "cooked_mutton": "2019-09-14 22:53:28 -0400",
       "sweet_berries": "2019-09-14 23:18:11 -0400",
+      "cooked_beef": "2019-09-15 23:47:42 -0400",
       "baked_potato": "2019-09-15 17:36:20 -0400",
       "cooked_chicken": "2019-09-14 18:44:26 -0400",
       "carrot": "2019-09-15 00:45:25 -0400"
@@ -362,6 +381,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-09-14 18:22:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-15 22:38:40 -0400"
     },
     "done": true
   },
@@ -545,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-09-14 18:49:25 -0400"
@@ -604,6 +635,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-09-14 19:45:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
     },
     "done": true
   },
@@ -865,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-09-15 23:29:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-14 22:42:06 -0400"
@@ -876,6 +919,7 @@
       "minecraft:skeleton": "2019-09-14 20:19:23 -0400",
       "minecraft:spider": "2019-09-14 22:05:48 -0400",
       "minecraft:creeper": "2019-09-14 22:04:54 -0400",
+      "minecraft:cave_spider": "2019-09-15 23:24:56 -0400",
       "minecraft:zombie": "2019-09-14 18:46:51 -0400",
       "minecraft:drowned": "2019-09-14 22:21:25 -0400"
     },
@@ -1241,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-09-15 22:39:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2019-09-14 18:31:36 -0400"
@@ -1280,6 +1330,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-09-14 19:26:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2019-09-15 22:40:50 -0400"
     },
     "done": true
   },
@@ -1577,6 +1633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2019-09-15 17:32:21 -0400"
@@ -1621,9 +1683,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-09-15 23:29:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_the_recipe": "2019-09-14 23:55:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-09-15 23:31:06 -0400"
     },
     "done": true
   },
@@ -1687,6 +1761,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-09-15 22:31:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-09-14 18:39:27 -0400"
@@ -1732,6 +1812,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-09-14 18:47:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-09-15 22:38:57 -0400"
     },
     "done": true
   },
@@ -1828,6 +1914,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-09-14 20:15:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-09-15 22:40:50 -0400"
     },
     "done": true
   },
