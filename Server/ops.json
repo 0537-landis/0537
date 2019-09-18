@@ -4,5 +4,17 @@
     "name": "Sashimi",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed1833d1-a8cf-42a7-a00b-9d06e5f1c3da",
+    "name": "rrastim",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "af60bb94-bb13-46b7-aa92-67e43b669b75",
+    "name": "Zackarov",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
