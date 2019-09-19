@@ -1,56 +1,145 @@
-[00:01:39] [Server thread/INFO]: [Sashimi: Gave 1 [Spawner] to Sashimi]
-[00:03:55] [Server thread/INFO]: [Sashimi: Gave 1 [Spawner] to Sashimi]
-[00:04:10] [Server thread/INFO]: [Sashimi: Set the weather to clear]
-[00:05:38] [Server thread/INFO]: [Sashimi: Summoned new Ender Dragon]
-[00:06:52] [Server thread/WARN]: Sashimi moved too quickly! 10.279356867685621,0.0,-0.48623640324568385
-[00:07:34] [Server thread/INFO]: [Sashimi: Teleported Sashimi to Zackarov]
-[00:07:34] [Server thread/WARN]: Sashimi moved too quickly! -337.70967351431955,-31.309196242334195,43.49797280684437
-[00:08:01] [Server thread/INFO]: [Sashimi: Gave 1 [Spawner] to Sashimi]
-[00:08:14] [Server thread/INFO]: Sashimi has completed the challenge [Uneasy Alliance]
-[00:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
-[00:08:48] [Server thread/INFO]: [Sashimi: Gave 1 [Spawner] to Sashimi]
-[00:10:03] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[00:11:07] [Server thread/INFO]: Zackarov lost connection: Disconnected
-[00:11:07] [Server thread/INFO]: Zackarov left the game
-[00:11:20] [Server thread/INFO]: [Sashimi: Gave 1 [Spawner] to Sashimi]
-[00:11:49] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[00:12:29] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[00:14:04] [User Authenticator #5/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
-[00:14:04] [Server thread/INFO]: Zackarov[/10.135.224.52:57855] logged in with entity id 21349 at (-604.3585923362216, 101.77291064307386, 18.988801211742754)
-[00:14:04] [Server thread/INFO]: Zackarov joined the game
-[00:15:52] [Server thread/INFO]: Sashimi fell from a high place
-[00:16:13] [Server thread/WARN]: Sashimi moved wrongly!
-[00:16:18] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[00:19:16] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[00:19:41] [Server thread/INFO]: [Sashimi: Set the weather to clear]
-[00:20:10] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[00:24:23] [Server thread/INFO]: Sashimi has made the advancement [Bring Home the Beacon]
-[00:26:39] [Server thread/INFO]: Sashimi has made the advancement [Diamonds!]
-[00:28:22] [Server thread/INFO]: Franki_Q lost connection: Disconnected
-[00:28:22] [Server thread/INFO]: Franki_Q left the game
-[00:34:36] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[00:35:18] [Server thread/INFO]: rrastim has made the advancement [A Seedy Place]
-[00:36:09] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
-[00:38:45] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
-[00:43:40] [Server thread/WARN]: Zackarov moved too quickly! 9.961961203093097,0.0,-2.2225076198704308
-[00:48:00] [Server thread/INFO]: rrastim has made the advancement [A Throwaway Joke]
-[00:48:57] [Server thread/INFO]: Zackarov has made the advancement [Stone Age]
-[00:50:53] [Server thread/INFO]: rrastim lost connection: Disconnected
-[00:50:53] [Server thread/INFO]: rrastim left the game
-[00:53:12] [Server thread/INFO]: Sashimi lost connection: Disconnected
-[00:53:12] [Server thread/INFO]: Sashimi left the game
-[00:54:28] [Server thread/INFO]: Zackarov lost connection: Disconnected
-[00:54:28] [Server thread/INFO]: Zackarov left the game
-[00:55:12] [Server thread/INFO]: Stopping the server
-[00:55:12] [Server thread/INFO]: Stopping server
-[00:55:12] [Server thread/INFO]: Saving players
-[00:55:12] [Server thread/INFO]: Saving worlds
-[00:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:55:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:55:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:29:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:29:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:29:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:29:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:29:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:29:12] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:29:12] [Server thread/INFO]: Loading properties
+[16:29:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:29:12] [Server thread/INFO]: Generating keypair
+[16:29:12] [Server thread/INFO]: Starting Minecraft server on 146.201.172.156:25565
+[16:29:12] [Server thread/INFO]: Using default channel type
+[16:29:12] [Server thread/INFO]: Preparing level "world"
+[16:29:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:29:15] [Server thread/INFO]: Loaded 6 recipes
+[16:29:16] [Server thread/INFO]: Loaded 811 advancements
+[16:29:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:29:17] [Server thread/INFO]: Preparing spawn area: 5%
+[16:29:17] [Server thread/INFO]: Time elapsed: 1261 ms
+[16:29:17] [Server thread/INFO]: Done (4.751s)! For help, type "help"
+[16:30:21] [User Authenticator #1/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[16:30:21] [Server thread/INFO]: Zackarov[/10.135.224.52:61018] logged in with entity id 343 at (-602.8059605600046, 101.0, 21.236354817876954)
+[16:30:21] [Server thread/INFO]: Zackarov joined the game
+[16:30:30] [Server thread/INFO]: Zackarov fell out of the world
+[16:30:30] [Server thread/INFO]: Killed Zackarov
+[16:30:34] [User Authenticator #2/INFO]: UUID of player Sashimi is ea984a59-310a-4905-ac2d-48c2c00a18b4
+[16:30:34] [Server thread/INFO]: Sashimi[/146.201.172.156:51618] logged in with entity id 403 at (-572.1188241872259, 173.0, 26.44641771160772)
+[16:30:34] [Server thread/INFO]: Sashimi joined the game
+[16:46:48] [User Authenticator #3/INFO]: UUID of player rrastim is ed1833d1-a8cf-42a7-a00b-9d06e5f1c3da
+[16:46:48] [Server thread/INFO]: rrastim[/10.135.109.204:55676] logged in with entity id 4337 at (-688.3000000119209, 75.8599546533197, -2.426528536502632)
+[16:46:48] [Server thread/INFO]: rrastim joined the game
+[16:48:54] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[16:49:10] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[16:49:18] [Server thread/WARN]: Sashimi moved too quickly! 15.855569779613234,-4.591201650488813,5.485071506646581
+[16:50:20] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[16:50:24] [Server thread/INFO]: Sashimi has made the advancement [Hot Stuff]
+[16:50:32] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[16:53:52] [Server thread/INFO]: [rrastim: Set own game mode to Survival Mode]
+[16:54:18] [Server thread/WARN]: Sashimi moved too quickly! -14.174855631583114,-2.8407117887033735,-9.929676879833286
+[17:04:46] [Server thread/INFO]: Zackarov fell out of the world
+[17:04:46] [Server thread/INFO]: [Sashimi: Killed Zackarov]
+[17:05:05] [Server thread/INFO]: Sashimi fell out of the world
+[17:05:05] [Server thread/INFO]: [Zackarov: Killed Sashimi]
+[17:07:23] [Server thread/INFO]: rrastim has made the advancement [Enchanter]
+[17:09:30] [Server thread/INFO]: Zackarov lost connection: Disconnected
+[17:09:30] [Server thread/INFO]: Zackarov left the game
+[17:09:30] [Server thread/INFO]: [Sashimi: Kicked Zackarov: Kicked by an operator]
+[17:09:30] [Server thread/WARN]: handleDisconnection() called twice
+[17:09:32] [User Authenticator #4/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:09:32] [Server thread/INFO]: Zackarov[/10.135.224.52:61062] logged in with entity id 8384 at (-547.363880463129, 105.0, -14.304575924960709)
+[17:09:32] [Server thread/INFO]: Zackarov joined the game
+[17:11:04] [Server thread/INFO]: [Sashimi: Kicked Zackarov: Kicked by an operator]
+[17:11:04] [Server thread/INFO]: Zackarov lost connection: Kicked by an operator
+[17:11:04] [Server thread/INFO]: Zackarov left the game
+[17:11:08] [User Authenticator #5/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:11:08] [Server thread/INFO]: Zackarov[/10.135.224.52:61066] logged in with entity id 8633 at (-553.3374856929762, 106.0, -9.566873063586755)
+[17:11:08] [Server thread/INFO]: Zackarov joined the game
+[17:11:55] [Server thread/INFO]: [Sashimi: Kicked Zackarov: Kicked by an operator]
+[17:11:55] [Server thread/INFO]: Zackarov lost connection: Kicked by an operator
+[17:11:55] [Server thread/INFO]: Zackarov left the game
+[17:11:58] [User Authenticator #6/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:11:58] [Server thread/INFO]: Zackarov[/10.135.224.52:61069] logged in with entity id 8780 at (-550.2985871379009, 110.0, -11.871907991933266)
+[17:11:58] [Server thread/INFO]: Zackarov joined the game
+[17:14:01] [Server thread/INFO]: rrastim has made the advancement [The Parrots and the Bats]
+[17:16:51] [Server thread/INFO]: Set Zackarov's game mode to Survival Mode
+[17:17:11] [Server thread/INFO]: [Zackarov: Set own game mode to Creative Mode]
+[17:17:37] [Server thread/INFO]: Sashimi fell out of the world
+[17:17:37] [Server thread/INFO]: [Zackarov: Killed Sashimi]
+[17:17:51] [Server thread/INFO]: Zackarov fell out of the world
+[17:17:51] [Server thread/INFO]: [Sashimi: Killed Zackarov]
+[17:18:22] [Server thread/INFO]: [Sashimi: Kicked Zackarov: Kicked by an operator]
+[17:18:22] [Server thread/INFO]: Zackarov lost connection: Kicked by an operator
+[17:18:22] [Server thread/INFO]: Zackarov left the game
+[17:18:25] [User Authenticator #7/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:18:25] [Server thread/INFO]: Zackarov[/10.135.224.52:61076] logged in with entity id 9969 at (-548.6329671385188, 115.76636799395752, -8.838127558635357)
+[17:18:25] [Server thread/INFO]: Zackarov joined the game
+[17:18:27] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[17:19:00] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[17:20:39] [Server thread/INFO]: [Sashimi: Kicked Zackarov: Kicked by an operator]
+[17:20:39] [Server thread/INFO]: Zackarov lost connection: Kicked by an operator
+[17:20:39] [Server thread/INFO]: Zackarov left the game
+[17:20:41] [User Authenticator #8/INFO]: UUID of player Zackarov is af60bb94-bb13-46b7-aa92-67e43b669b75
+[17:20:41] [Server thread/INFO]: Zackarov[/10.135.224.52:61079] logged in with entity id 10323 at (-550.3000000119209, 132.6240026971659, -9.699999988079071)
+[17:20:41] [Server thread/INFO]: Zackarov joined the game
+[17:20:47] [Server thread/INFO]: [Zackarov: Kicked Sashimi: Kicked by an operator]
+[17:20:47] [Server thread/INFO]: Sashimi lost connection: Kicked by an operator
+[17:20:47] [Server thread/INFO]: Sashimi left the game
+[17:20:49] [User Authenticator #9/INFO]: UUID of player Sashimi is ea984a59-310a-4905-ac2d-48c2c00a18b4
+[17:20:49] [Server thread/INFO]: Sashimi[/146.201.172.156:52189] logged in with entity id 10350 at (-573.9716374866053, 112.72958308443278, 5.759960062591835)
+[17:20:49] [Server thread/INFO]: Sashimi joined the game
+[17:20:54] [Server thread/INFO]: Zackarov fell out of the world
+[17:20:54] [Server thread/INFO]: [Sashimi: Killed Zackarov]
+[17:20:58] [Server thread/INFO]: [Sashimi: Made Zackarov no longer a server operator]
+[17:21:25] [Server thread/INFO]: Made Zackarov a server operator
+[17:29:14] [Server thread/INFO]: [Sashimi: Teleported Sashimi to rrastim]
+[17:29:14] [Server thread/WARN]: Sashimi moved too quickly! -81.83523804683284,-42.2468000194788,233.4442383348547
+[17:29:14] [Server thread/WARN]: Sashimi moved too quickly! -81.83523804683284,-42.2468000194788,233.4442383348547
+[17:29:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[17:29:33] [Server thread/INFO]: Sashimi has made the advancement [Best Friends Forever]
+[17:30:55] [Server thread/INFO]: [Sashimi: Teleported Sashimi to rrastim]
+[17:30:55] [Server thread/WARN]: Sashimi moved too quickly! 163.56512317999085,-2.0,-37.099161883373256
+[17:30:55] [Server thread/WARN]: Sashimi moved too quickly! 163.56512317999085,-2.0,-37.099161883373256
+[17:34:14] [Server thread/INFO]: [Zackarov: Teleported Sashimi to Zackarov]
+[17:34:23] [Server thread/WARN]: rrastim moved too quickly! -4.544980527024819,-1.0,-8.897234522285977
+[17:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
+[17:38:28] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[17:39:00] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[17:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
+[17:39:27] [Server thread/WARN]: rrastim moved wrongly!
+[17:40:25] [Server thread/INFO]: [Sashimi: Teleported Sashimi to rrastim]
+[17:40:25] [Server thread/WARN]: Sashimi moved too quickly! 167.87616619427337,32.0,-105.09941036576458
+[17:40:25] [Server thread/WARN]: Sashimi moved too quickly! 167.87616619427337,32.0,-105.09941036576458
+[17:45:44] [Server thread/INFO]: [rrastim: Set own game mode to Creative Mode]
+[17:46:35] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[17:47:09] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[17:47:22] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[17:47:41] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[17:50:32] [Server thread/INFO]: Sashimi has made the advancement [The Parrots and the Bats]
+[17:51:22] [Server thread/INFO]: [Sashimi: Set own game mode to Creative Mode]
+[17:51:27] [Server thread/INFO]: [Sashimi: Set own game mode to Survival Mode]
+[17:52:55] [Server thread/INFO]: [rrastim: Set own game mode to Survival Mode]
+[17:54:08] [Server thread/INFO]: Zackarov fell out of the world
+[17:54:08] [Server thread/INFO]: [Sashimi: Killed Zackarov]
+[17:54:12] [Server thread/INFO]: Sashimi fell out of the world
+[17:54:12] [Server thread/INFO]: [Zackarov: Killed Sashimi]
+[17:55:18] [Server thread/INFO]: rrastim lost connection: Disconnected
+[17:55:18] [Server thread/INFO]: rrastim left the game
+[17:55:42] [Server thread/INFO]: Sashimi lost connection: Disconnected
+[17:55:42] [Server thread/INFO]: Sashimi left the game
+[17:55:57] [Server thread/INFO]: Zackarov lost connection: Disconnected
+[17:55:57] [Server thread/INFO]: Zackarov left the game
+[17:55:58] [Server thread/INFO]: No player was found
+[17:55:59] [Server thread/INFO]: Stopping server
+[17:55:59] [Server thread/INFO]: Saving players
+[17:55:59] [Server thread/INFO]: Saving worlds
+[17:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:55:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

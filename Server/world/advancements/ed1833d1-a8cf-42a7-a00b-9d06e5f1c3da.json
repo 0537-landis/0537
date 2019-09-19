@@ -209,15 +209,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-09-18 00:02:40 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-09-17 23:55:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-09-18 00:02:40 -0400"
     },
     "done": true
   },
@@ -329,6 +329,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2019-09-18 17:37:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-09-18 17:44:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-09-17 17:16:46 -0400"
@@ -374,8 +386,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-09-17 17:22:50 -0400",
+      "chicken": "2019-09-18 16:56:07 -0400",
       "cooked_mutton": "2019-09-17 18:17:50 -0400",
+      "cooked_beef": "2019-09-18 17:36:18 -0400",
       "spider_eye": "2019-09-17 18:06:01 -0400",
+      "potato": "2019-09-18 17:14:44 -0400",
       "cooked_chicken": "2019-09-17 17:56:52 -0400",
       "enchanted_golden_apple": "2019-09-17 23:49:21 -0400"
     },
@@ -489,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-09-18 17:20:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-09-17 18:36:58 -0400"
@@ -555,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2019-09-18 17:20:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-18 00:02:40 -0400"
@@ -590,6 +617,13 @@
       "has_bed": "2019-09-17 18:38:38 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2019-09-18 17:14:01 -0400",
+      "minecraft:chicken": "2019-09-18 17:18:25 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -926,6 +960,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-09-17 17:23:21 -0400",
       "minecraft:spider": "2019-09-17 18:01:05 -0400",
+      "minecraft:creeper": "2019-09-18 17:33:50 -0400",
       "minecraft:zombie": "2019-09-17 17:54:25 -0400",
       "minecraft:drowned": "2019-09-17 17:18:34 -0400"
     },
@@ -946,6 +981,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-09-17 18:23:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-09-18 17:07:23 -0400"
     },
     "done": true
   },
@@ -970,6 +1011,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-09-18 00:38:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2019-09-18 17:37:22 -0400"
     },
     "done": true
   },
@@ -1453,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-09-18 17:28:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2019-09-17 18:23:18 -0400"
@@ -1474,6 +1527,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-09-17 18:01:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-09-18 17:20:16 -0400"
     },
     "done": true
   },
@@ -1573,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2019-09-18 17:20:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-17 17:48:42 -0400"
@@ -1666,9 +1731,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2019-09-17 17:17:41 -0400",
+      "minecraft:forest": "2019-09-18 17:27:54 -0400",
       "minecraft:birch_forest": "2019-09-17 18:07:23 -0400",
       "minecraft:dark_forest": "2019-09-17 17:13:03 -0400",
       "minecraft:river": "2019-09-17 17:16:27 -0400",
+      "minecraft:wooded_mountains": "2019-09-18 17:23:25 -0400",
       "minecraft:plains": "2019-09-17 17:09:51 -0400"
     },
     "done": false
@@ -1733,15 +1800,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-09-18 00:02:40 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-09-17 23:55:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-09-18 00:02:40 -0400"
     },
     "done": true
   },
@@ -1844,6 +1911,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-09-17 17:57:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-09-18 17:14:01 -0400"
     },
     "done": true
   },
