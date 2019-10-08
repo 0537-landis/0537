@@ -1,0 +1,41 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 10/2/19, 9:27 PM
+Description: Exception in server tick loop
+
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at zs.a(SourceFile:507)
+	at zs.a(SourceFile:523)
+	at xz.g(SourceFile:146)
+	at uj.z(SourceFile:98)
+	at uj.<init>(SourceFile:25)
+	at uk.d(SourceFile:185)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:615)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1393)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:549)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:74)
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:61)
+	at zs.a(SourceFile:505)
+	... 7 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.4
+	Minecraft Version ID: 1.14.4
+	Operating System: Mac OS X (x86_64) version 10.15
+	Java Version: 12.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 817482496 bytes (779 MB) / 1265631232 bytes (1207 MB) up to 4294967296 bytes (4096 MB)
+	CPUs: 8
+	JVM Flags: 0 total; 
+	Data Packs: 
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

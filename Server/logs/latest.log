@@ -1,2 +1,39 @@
-[00:00:21] [Server thread/INFO]: Franki_Q lost connection: Disconnected
-[00:00:21] [Server thread/INFO]: Franki_Q left the game
+[21:27:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:27:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:27:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:27:38] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[21:27:38] [Server thread/INFO]: Loading properties
+[21:27:38] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:38] [Server thread/INFO]: Generating keypair
+[21:27:38] [Server thread/INFO]: Starting Minecraft server on 146.201.172.135:25565
+[21:27:38] [Server thread/INFO]: Using default channel type
+[21:27:39] [Server thread/ERROR]: Encountered an unexpected exception
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at zs.a(SourceFile:507) ~[server.jar:?]
+	at zs.a(SourceFile:523) ~[server.jar:?]
+	at xz.g(SourceFile:146) ~[server.jar:?]
+	at uj.z(SourceFile:98) ~[server.jar:?]
+	at uj.<init>(SourceFile:25) ~[server.jar:?]
+	at uk.d(SourceFile:185) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:615) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:835) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1393) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:549) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[server.jar:?]
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:74) ~[server.jar:?]
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:61) ~[server.jar:?]
+	at zs.a(SourceFile:505) ~[server.jar:?]
+	... 7 more
+[21:27:39] [Server thread/ERROR]: This crash report has been saved to: /Users/tryfon/Documents/0537/Server/./crash-reports/crash-2019-10-02_21.27.39-server.txt
+[21:27:39] [Server thread/INFO]: Stopping server
+[21:27:39] [Server thread/INFO]: Saving worlds
+[21:27:39] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.server.MinecraftServer.a(SourceFile:546) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.m(SourceFile:574) ~[server.jar:?]
+	at uk.m(SourceFile:593) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:676) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:835) [?:?]
